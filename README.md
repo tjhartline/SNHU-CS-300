@@ -5,7 +5,7 @@ Course Review and What I learned
 
 What was the problem you were solving in the projects for this course?
 
-The problem we solved during the course was to find a data structure solution that allowed us to store file information into a structure that could later be accessed based specifically on what the user entered and desired to see. This was done through multiple stages of pseudocode, big-O notation analysis and experience gained from the course. In the end, while a vector may have seemed like the optimum choice for the final project, I chose to use a Binary Search Tree structure as it did require the extra programming to sort the items as a vector and just made more sense to avoid maintence tasks later down the road after deployment.
+The problem we solved during this course was to find a data structure solution that allowed us to store file information into a structure that could later be accessed based specifically on what the user entered and desired to see. This was done through multiple stages of pseudocode, big-O notation analysis and experience gained from the course. In the end, while a vector may have seemed like the optimum choice for the final project, I chose to use a Binary Search Tree structure as it didn't require the extra programming a vector does to sort the information and it just made more sense to use a BST to avoid maintence tasks later down the road after deployment.
 
 How did you approach the problem? Consider why data structures are important to understand.
 
