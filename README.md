@@ -1,4 +1,4 @@
-# SNHU-CS-300
+# SNHU-CS-300 Data Structures and Algorithms
 SNHU CS-300 Instructor Mike Susalla 2023
 
 Course Review and What I learned
